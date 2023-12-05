@@ -1,0 +1,19 @@
+사업체수
+https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52C08&conn_path=I2
+통계청,「전국사업체조사」, 2020, 2023.10.04, 시도 · 산업별 사업체수, 종사자수 및 매출액(’16~ )
+https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1K52D08&conn_path=I2
+통계청,「전국사업체조사」, 2021, 2023.10.04, 시도 · 산업별 사업체수, 종사자수 및 매출액(’20~ )
+사업체수(22년도)
+https://kostat.go.kr/board.es?mid=a10301010000&bid=233&act=view&list_no=427257&tag=&nPage=1&ref_bid=203,204,205,206,207,210,211,11109,11113,11814,213,215,214,11860,11695,216,218,219,220,10820,11815,11895,11816,208,245,222,223,225,226,227,228,229,230,11321,232,233,234,12029,10920,11469,11470,11817,236,237,11471,238,240,241,11865,243,244,11893,11898,12031,11825,246
+설비투자
+https://eiec.kdi.re.kr/bigdata/indicators.do?cat=%EC%84%A4%EB%B9%84%ED%88%AC%EC%9E%90
+고객호수
+https://epsis.kpx.or.kr/epsisnew/selectEksaCbcHbaChart.do?menuId=060802
+판매전력량
+https://epsis.kpx.or.kr/epsisnew/selectEksaAscAsaChart.do?menuId=060405
+온도
+기상청 API
+가구수(추계 포함)
+https://kosis.kr/statHtml/statHtml.do?conn_path=K2&tblId=DT_1BZ0501&orgId=101
+3개월전망(참조)
+https://www.weather.go.kr/w/weather/long-term/month3.do
